@@ -1,0 +1,5 @@
+dc static Program {
+    df main() {
+        console.log("Hello World!");
+    }
+}
